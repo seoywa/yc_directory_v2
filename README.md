@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Jade's note:
+This project is filled with tons of errors, most likely caused by Tailwind v.4 vs his Tailwind v.3 incompatibility. Will try to get back to solve all the missing css utilities
 
 ## Getting Started
 
